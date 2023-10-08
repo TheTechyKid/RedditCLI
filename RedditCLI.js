@@ -5,7 +5,7 @@ import figlet from 'figlet';
 import chalk from 'chalk';
 import readln from 'readline';
 
-const profanityList = ["nigga", "fuck", "shit", "damn", "bitch"];
+const profanityList = ["fuck", "shit", "damn", "bitch"];
 const text = 'RedditCLI';
 const font = 'Standard';
 
